@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
+body,html{
+  font-family: 'Tenor Sans', sans-serif;
+}
+.side-bar {
+  background-color: #0d1b48;
+  min-width: 270px;
+  max-width: 270px;
+}
+.btn-primary{
+  background:#0d1b48
+}
+.bg-light {
+  --bs-bg-opacity: 1;
+  background-color: #f9f7f2!important;
+}
+.card-header {
+  background-color:transparent;
+}
+
+th {
+  color: #525f7f !important;
+    background-color: #f5f9fc !important;
+}
+.w-50 {
+  width: 100%!important;
+}
